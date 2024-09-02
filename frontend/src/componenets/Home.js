@@ -19,7 +19,7 @@ const Home = () => {
 
   const fetchProducts = async () => {
     
-    const response = await fetch("/api/v1/products");
+    const response = await fetch("https://e-commerce-0ti2.onrender.com/api/v1/products");
     console.log(response);
     const data = await response.json();
     console.log(data);
@@ -29,7 +29,7 @@ const Home = () => {
   const getProfileData = async () => {
    
     try {
-      const response = await fetch("/api/user/profile/details", {
+      const response = await fetch("https://e-commerce-0ti2.onrender.com/api/user/profile/details", {
         method: "GET",
       });
       

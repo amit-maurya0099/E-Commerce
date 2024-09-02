@@ -39,7 +39,7 @@ const Header = () => {
   const getProfileData = async () => {
    
     try {
-      const response = await fetch("/api/user/profile/details", {
+      const response = await fetch("https://e-commerce-0ti2.onrender.com/api/user/profile/details", {
         method: "GET",
       });
       
@@ -68,7 +68,7 @@ const Header = () => {
   return (
     <div className="sticky top-0 z-20">
       {showProfileCard? <ShowProfileCard/>: <></>}
-      <header className="  flex justify-between shadow-lg py-2 text-white bg-[#8088c7] ">
+      <header className="  flex justify-between shadow-lg py-2 text-white bg-[#5ecf95] ">
         <div className=" flex items-center w-[60%] ">
           <div className="px-10 w-[30%]">
             <img
