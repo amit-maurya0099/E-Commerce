@@ -56,6 +56,6 @@
   "devDependencies": {
     "tailwindcss": "^3.4.7"
   },
-  "proxy":"http://localhost:3000"
+  "proxy":"https://e-commerce-0ti2.onrender.com"
  
 }
