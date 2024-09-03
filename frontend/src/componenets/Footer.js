@@ -12,7 +12,7 @@ const Footer = () => {
   return (
     <div >
       
-      <div className="flex justify-evenly w-full bg-slate-700 text-white p-8 ">
+      <div className="flex justify-evenly w-full bg-[#3C3C3C] text-white p-8 ">
         <div>
           <h2 className="text-sm text-gray-400 font-semibold">ABOUT</h2>
           <ul className="py-3">
@@ -70,7 +70,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="bg-slate-700 text-white border-t border-t-white flex justify-center">
+      <div className="bg-[#6e6d6d] text-white border-t border-t-white flex justify-center">
       <img
               src="https://bizwiziq.com/wp-content/uploads/2019/02/shopkart-orange-1.png"
               alt="/"
