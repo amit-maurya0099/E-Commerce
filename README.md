@@ -1,7 +1,8 @@
 # E-Commerce 
 ## Overview
 This project is a full-fledged E-commerce platform built using the MERN stack (MongoDB, Express.js, React, and Node.js). It allows users to browse products, add them to their cart, and proceed to checkout with a smooth user interface.
-![Screenshot 2024-09-03 152034](https://github.com/user-attachments/assets/6c761340-6cca-47dd-a444-278bc5ad0c59)
+
+![Screenshot 2024-09-03 151823](https://github.com/user-attachments/assets/980bc57b-e974-4365-8ea6-e499a8bd6263)
 ![screenshot](https://github.com/user-attachments/assets/cdd35ddf-e93c-4d43-a476-65879724b6a9)
 
 
