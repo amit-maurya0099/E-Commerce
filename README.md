@@ -68,4 +68,11 @@ To set up the E-Commerce on your local machine, follow the instructions below.
       ```bash
       npm start
       ```
+### Contributing
+
+Contributions to E-Commerce are welcome. If you have suggestions, find any bugs, or want to add new features, feel free to open an issue or submit a pull request.
+
+## Authors
+
+- [amit maurya](https://www.github.com/amit-maurya0099)
 
