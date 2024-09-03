@@ -43,7 +43,7 @@ To set up the E-Commerce on your local machine, follow the instructions below.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/amit-maurya0099/E-commerce
+    git clone https://github.com/amit-maurya0099/E-commerce.git
    
     ```
 
