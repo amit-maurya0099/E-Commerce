@@ -9,3 +9,11 @@ This project is a full-fledged E-commerce platform built using the MERN stack (M
 - **Checkout Process:** Users can review their orders, provide shipping details, and make payments.
 - **Order History:** Users can view their past orders and track their current orders.
 - **Admin Dashboard:** Admins can manage users, products, and view sales statistics.
+
+## TechStack
+- **Frontend**: React with Tailwind CSS for styling.
+- **Backend:** Node.js with Express.js for building RESTful APIs.
+-**Database:** MongoDB for storing user and product data.
+-**State Management:** Redux Toolkit for managing application state.
+-**Authentication:** JSON Web Tokens (JWT) for secure authentication.
+-**Payment Integration:** Stripe API for handling payments.
