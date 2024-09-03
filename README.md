@@ -13,7 +13,9 @@ This project is a full-fledged E-commerce platform built using the MERN stack (M
  ### Note:- Payment gateway is yet to be integrated.
 
  ## Demo Video
- 
+ https://github.com/user-attachments/assets/6751db2c-479e-4b0c-b3e7-5bf26678caa2
+
+
  
 ## TechStack
 - **Frontend**: React with Tailwind CSS for styling.
@@ -36,7 +38,7 @@ To set up the E-Commerce on your local machine, follow the instructions below.
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/amit-maurya0099/E-commerce
    
     ```
 
