@@ -52,18 +52,10 @@ To set up the E-Commerce on your local machine, follow the instructions below.
       npm install
       ```
 
-3. Create a `.env` file in the backend directory and add your environment variables:
-    ```bash
-    PORT=5000
-    MONGO_URI=your_mongo_connection_string
-    JWT_SECRET=your_jwt_secret
-    STRIPE_SECRET_KEY=your_stripe_secret_key
-    ```
-
-4. Run the application:
+3. Run the application:
     - Backend:
       ```bash
-      npm run server
+      npm run dev
       ```
     - Frontend:
       ```bash
