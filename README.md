@@ -28,7 +28,7 @@ This project is a full-fledged E-commerce platform built using the MERN stack (M
 - **Database:** MongoDB for storing user and product data.
 - **State Management:** Redux Toolkit for managing application state.
 - **Authentication:** JSON Web Tokens (JWT) for secure authentication.
-- **Payment Integration:** Stripe API for handling payments.
+
 
 ## Getting Started
 
